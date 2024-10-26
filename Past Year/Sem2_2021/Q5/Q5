@@ -1,0 +1,3 @@
+a) n < r
+b) return n*permut(n-1,r)
+c) return n;

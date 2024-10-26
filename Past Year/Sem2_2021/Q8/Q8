@@ -1,0 +1,25 @@
+a)
+i) edge[to][from] = true
+
+ii) line 19
+for(int j = 0; j < vertex; j++)
+
+
+b)
+breath first search
+
+
+c)
+
+            0
+            |
+            1
+        /   |   \
+       2    3    6
+            |   / \
+            7  4   5
+
+i) 6
+ii) 2, 6
+iii) 4,5
+iv) 5

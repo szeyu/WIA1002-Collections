@@ -1,0 +1,7 @@
+a) <T>
+b) UseGeneric()
+c) UseGeneric<Integer> run1 = nw UseGeneric<>();
+
+d) compilation error
+
+
